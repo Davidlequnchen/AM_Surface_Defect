@@ -59,3 +59,13 @@ If you find our work useful in your research, please cite our paper:
 <!-- <p align="center">
   <img width="" height="" src="./doc/method_comparison.svg">
 </p> -->
+
+##  [Robotic milling toolpath generation]
+
+- Currently under development
+- Preliminary results:
+
+![](./doc/priliminary_milling1.PNG)
+
+![](./doc/priliminary2.PNG)
+
