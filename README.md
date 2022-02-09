@@ -25,7 +25,7 @@ This is the code repository for a series of projects related to __In-process ada
 
 ## [Rapid surface defect identification] 
 
-- link: [Rapid surface defect identification] ./Rapid_surface_defect_id
+[Rapid surface defect identification]: ./Rapid_surface_defect_id
 
 
 #### Citation
@@ -36,9 +36,8 @@ If you find our work useful in your research, please cite our paper:
    Chen, L., Yao, X., Xu, P., Moon, S.K., Bi, G., 2021. Rapid surface defect identification for additive manufacturing with in-situ point cloud processing and machine learning. Virtual and Physical Prototyping 16, 50–67. https://doi.org/10.1080/17452759.2020.1832695
 
 
-<p align="center">
-  <img src="./doc/rapid_surface_defect_id.png">
-</p>
+![](./doc/rapid_surface_defect_id.png)
+
 
 
 ##  [In-process adaptive dimension correction strategy for LAAM]
