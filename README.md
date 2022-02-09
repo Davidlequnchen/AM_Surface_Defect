@@ -36,7 +36,7 @@ If you find our work useful in your research, please cite our paper:
   Chen, L., Yao, X., Xu, P., Moon, S.K., Bi, G., 2021. Rapid surface defect identification for additive manufacturing with in-situ point cloud processing and machine learning. Virtual and Physical Prototyping 16, 50–67. https://doi.org/10.1080/17452759.2020.1832695
 
 
-![](./doc/rapid_surface_defect_id.png)
+![](./doc/rapid_surface_defect_id.PNG)
 
 
 
