@@ -31,9 +31,9 @@ This is the code repository for a series of projects related to __In-process ada
 #### Citation
 If you find our work useful in your research, please cite our paper:
 
-[Publication](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832695):
+<!-- [Publication](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832695): -->
 
-   Chen, L., Yao, X., Xu, P., Moon, S.K., Bi, G., 2021. Rapid surface defect identification for additive manufacturing with in-situ point cloud processing and machine learning. Virtual and Physical Prototyping 16, 50–67. https://doi.org/10.1080/17452759.2020.1832695
+  Chen, L., Yao, X., Xu, P., Moon, S.K., Bi, G., 2021. Rapid surface defect identification for additive manufacturing with in-situ point cloud processing and machine learning. Virtual and Physical Prototyping 16, 50–67. https://doi.org/10.1080/17452759.2020.1832695
 
 
 ![](./doc/rapid_surface_defect_id.png)
@@ -53,7 +53,9 @@ If you find our work useful in your research, please cite our paper:
 
    Chen L, Yao X, Chew Y, Weng F, Moon SK, Bi G. Data-Driven Adaptive Control for Laser-Based Additive Manufacturing with Automatic Controller Tuning. Applied Sciences. 2020; 10(22):7967. https://doi.org/10.3390/app10227967 -->
 
+![](./doc/method_comparison.svg)
 
-<p align="center">
+
+<!-- <p align="center">
   <img width="" height="" src="./doc/method_comparison.svg">
-</p>
+</p> -->
