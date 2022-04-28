@@ -68,4 +68,3 @@ If you find our work useful in your research, please cite our paper:
 ![](./doc/priliminary_milling1.PNG)
 
 ![](./doc/priliminary2.PNG)
-
